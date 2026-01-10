@@ -1,1 +1,0 @@
-alert("Welcome to Anshika's first website")
